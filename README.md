@@ -1,2 +1,2 @@
-# fabejano555.github.io
+# scholaros.github.io
 Official ScholarOS Website Repository
